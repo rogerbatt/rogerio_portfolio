@@ -1,0 +1,70 @@
+{
+  "hello": "Olá, Sou o",
+  "about": "Sobre",
+  "workxp": "Experiência Profissional",
+  "education": "Formações",
+  "skills": "Skills",
+  "myProjects": "Meus Projetos",
+
+  "description": "Engenheiro de Software Front-End | TypeScript, TailwindCSS, React, React Native & Vue.js | UX/UI & Performance",
+  "summary": "Olá! Sou Rogério, Engenheiro de Software – Front-End com mais de 7 anos de experiência, especializado no desenvolvimento de aplicações web e mobile escaláveis e de alto desempenho. Minha missão é transformar ideias em soluções digitais impactantes, sempre com foco em performance, usabilidade e experiência do usuário. Me destaco em ambientes dinâmicos e desafiadores, onde posso contribuir ativamente com soluções inovadoras e escaláveis. Minha experiência me permite atuar desde o conceito e planejamento até a entrega final, sempre garantindo a melhor experiência para o usuário e a eficiência do produto.",
+
+  "titleProjects": "Confira meus trabalhos mais recentes",
+  "descriptionProjects": "Trabalhei em uma variedade de projetos, desde sites simples até aplicativos web complexos e apps. Aqui estão alguns dos meus favoritos.",
+
+  "works": {
+    "2easyInsurance": {
+      "title": "Engenheiro de Software - Front-end",
+      "period": "Jul 2024 - Presente",
+      "location": "Remoto",
+      "description": "Atuo como responsável pela arquitetura e desenvolvimento front-end da empresa, liderando a criação de aplicativos móveis com React Native, interfaces de CRM em Vue.js e projetos em React.js. Desenvolvi o app principal da empresa do zero, priorizando performance e escalabilidade. Utilizo Redux, Zustand e Pinia para gerenciamento de estado, além de criar componentes reutilizáveis e interfaces consistentes com Figma e TailwindCSS. Sigo boas práticas de engenharia para garantir código limpo, modular e de fácil manutenção."
+    },
+    "riotGames": {
+      "title": "Engenheiro de Software - Full Stack",
+      "period": "Jan 2024 - Dez 2024",
+      "location": "Remoto",
+      "description": "Desenvolvi uma plataforma de gerenciamento e moderação de comunidades para os campeonatos internacionais da Riot Games. Integrei a API da Twitch para coletar e analisar interações em tempo real. Estruturei um sistema escalável e seguro com ReactJS, TypeScript, TailwindCSS, Node.js e Express.js. Implementei autenticação com JWT e práticas avançadas de segurança. Criei BOTs para automação da moderação e interação com o público. Liderei a arquitetura do sistema e testes unitários para garantir estabilidade."
+    },
+    "soluCX2": {
+      "title": "Engenheiro de Software",
+      "period": "Mai 2022 - Abr 2024",
+      "location": "Remoto",
+      "description": "Liderei a equipe de Integrações, garantindo comunicação eficiente entre sistemas internos e externos. Desenvolvi soluções com IA usando ChatGPT para classificação de reviews e análise de sentimento. Colaborei com Product Managers na definição de escopo e viabilidade técnica. Realizei code reviews, escrevi testes automatizados e mantive boas práticas de desenvolvimento. Estruturei APIs escaláveis e arquiteturas de software de alto desempenho para suportar o crescimento do produto."
+    },
+    "soluCX1": {
+      "title": "Tech Lead",
+      "period": "Fev 2021 - Mar 2022",
+      "location": "Remoto",
+      "description": "Implementei metodologias ágeis e processos de entrega, aumentando a eficiência da equipe de engenharia. Gerenciei múltiplos squads multifuncionais, alinhando as entregas técnicas com a estratégia do negócio. Liderei revisões de código, defini padrões de engenharia e conduzi workshops sobre produtividade e boas práticas. Mantive comunicação transparente com executivos C-Level e stakeholders. Fui reconhecido como Colaborador do Trimestre nos primeiros três meses pelas melhorias de processo implementadas."
+    },
+    "ambitsIt": {
+      "title": "Desenvolvedor Front-end",
+      "period": "Jan 2019 - Jan 2021",
+      "location": "Remoto",
+      "description": "Criei experiências de usuário intuitivas e acessíveis, com forte foco em UX/UI. Colaborei diretamente com designers para transformar wireframes e protótipos em interfaces funcionais e interativas. Desenvolvi aplicações responsivas e dinâmicas com tecnologias modernas de front-end, priorizando sempre performance, escalabilidade e fácil manutenção."
+    },
+    "guaruja": {
+      "title": "Estagiário de TI",
+      "period": "Jan 2018 - Jan 2019",
+      "location": "Guarujá, Brasil",
+      "description": "Gerenciei a infraestrutura de TI em mais de 30 escolas municipais, garantindo estabilidade de rede e funcionamento dos equipamentos. Instalei e mantive lousas digitais para modernizar o ensino. Desenvolvi novas funcionalidades para os sites oficiais da prefeitura. Também prestei suporte técnico, realizando montagem, manutenção e configuração de computadores, servidores e sistemas relacionados."
+    }
+  },
+
+  "educationExperience": {
+    "esamc2": {
+      "degree": "MBA, Gestão de Projetos"
+    },
+    "esamc1": {
+      "degree": "Graduação, Engenharia da Computação"
+    }
+  },
+
+  "projects": {
+    "2easyApp": {
+      "title": "2easy App",
+      "dates": "Jan 2025 - Jun 2025",
+      "description": "Com o lançamento da OpenAI GPT Store, criei um SaaS que permite coletar e-mails de usuários do GPT. Uma ótima maneira de construir audiência e monetizar o uso da API."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "hello": "Hi, I'm",
+  "about": "About",
+  "workxp": "Work Experience",
+  "education": "Education",
+  "skills": "Skills",
+  "myProjects": "My Projects",
+
+  "description": "Front-End Software Engineer | TypeScript, TailwindCSS, React, React Native & Vue.js | UX/UI & Performance",
+  "summary": "Hi! I'm Rogério, a Software Engineer – Front-End with 7+ years of experience, specializing in building scalable and high-performance web and mobile applications. My mission is to transform ideas into impactful digital solutions, always focusing on performance, usability, and user experience. I thrive in dynamic and challenging environments, where I can actively contribute with innovative and scalable solutions. My experience allows me to work from concept and planning to final delivery, always ensuring the best user experience and product efficiency.",
+
+  "titleProjects": "Check out my latest work",
+  "descriptionProjects": "I've worked on a variety of projects, from simple websites to complex web applications and apps. Here are a few of my favorites.",
+
+  "works": {
+    "2easyInsurance": {
+      "title": "Software Engineer - Front-end",
+      "period": "Jul 2024 - Present",
+      "location": "Remote",
+      "description": "I’m responsible for front-end architecture and development at the company, leading the creation of mobile apps with React Native, CRM interfaces in Vue.js, and projects in React.js. I developed the company’s main app from scratch, focusing on performance and scalability. I use Redux, Zustand, and Pinia for state management, and build reusable components and consistent interfaces with Figma and TailwindCSS. I follow software engineering best practices to ensure clean, modular, and maintainable code."
+    },
+    "riotGames": {
+      "title": "Software Engineer - Full Stack",
+      "period": "Jan 2024 - Dec 2024",
+      "location": "Remote",
+      "description": "Designed and developed a community management and moderation platform for Riot Games' international events. Integrated the Twitch API to collect and analyze real-time interactions. Built a scalable and secure system with ReactJS, TypeScript, TailwindCSS, Node.js, and Express.js. Implemented JWT authentication and API security best practices. Created moderation BOTs to automate user interaction handling. Led the system’s architecture and applied unit testing for stability."
+    },
+    "soluCX2": {
+      "title": "Software Engineer",
+      "period": "May 2022 - Apr 2024",
+      "location": "Remote",
+      "description": "Led the Integrations Team, ensuring seamless communication between internal and third-party systems. Developed AI-powered tools using ChatGPT for review classification and sentiment analysis. Collaborated closely with Product Managers to define product scope and technical feasibility. Conducted code reviews, implemented automated tests, and maintained clean coding standards. Designed scalable APIs and high-performance system architectures to support product growth."
+    },
+    "soluCX1": {
+      "title": "Tech Lead",
+      "period": "Feb 2021 - Mar 2022",
+      "location": "Remote",
+      "description": "Implemented Agile methodologies and delivery processes, increasing overall engineering team efficiency. Managed multiple cross-functional squads, aligning technical efforts with business goals. Led code reviews, established engineering standards, and facilitated workshops on productivity and best practices. Maintained transparent communication with C-Level executives and stakeholders. Recognized as Employee of the Quarter within the first three months for driving impactful process improvements."
+    },
+    "ambitsIt": {
+      "title": "Front-end Developer",
+      "period": "Jan 2019 - Jan 2021",
+      "location": "Remote",
+      "description": "Created intuitive and accessible user experiences with a strong focus on UX/UI. Collaborated closely with designers to turn wireframes and prototypes into functional, interactive interfaces. Developed responsive and dynamic applications using modern front-end technologies, always prioritizing performance, scalability, and maintainability."
+    },
+    "guaruja": {
+      "title": "IT Intern",
+      "period": "Jan 2018 - Jan 2019",
+      "location": "Guarujá, Brazil",
+      "description": "Managed IT infrastructure across 30+ municipal schools, ensuring network stability and equipment reliability. Installed and maintained digital whiteboards to support modern, interactive teaching methods. Developed new features and updates for the city's official websites. Provided hardware and software support, assembling and maintaining computers, servers, and related systems."
+    }
+  },
+
+  "educationExperience": {
+    "esamc2": {
+      "degree": "MBA, Project Management"
+    },
+    "esamc1": {
+      "degree": "Degree, Computer Engineering"
+    }
+  },
+
+  "projects": {
+    "2easyApp": {
+      "title": "2easy App",
+      "dates": "Jan 2025 - Jun 2025",
+      "description": "With the launch of the OpenAI GPT Store, I built a SaaS that allows users to collect emails from GPT users. A great way to grow an audience and monetize GPT API usage."
+    }
+  }
+}
