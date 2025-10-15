@@ -10,7 +10,7 @@ export const DATA = {
   location: "São Paulo, Brazil",
   locationLink: "https://www.google.com/maps/place/S%C3%A3oPaulo,SP",
 
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
 
   skills: [
     "React",
