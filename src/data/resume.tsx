@@ -6,7 +6,7 @@ export const DATA = {
   description:
     "Experienced front-end developer with a strong background in building scalable applications using React, React Native, and Vue. Passionate about creating clean, accessible UI with top performance, and integrating modern tools like TypeScript, TailwindCSS, Redux, and Zustand.",
   initials: "RB",
-  url: "",
+  url: "https://rogerio-battistoni.vercel.app/",
   location: "São Paulo, Brazil",
   locationLink: "https://www.google.com/maps/place/S%C3%A3oPaulo,SP",
 
