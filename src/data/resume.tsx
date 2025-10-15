@@ -172,7 +172,12 @@ export const DATA = {
           href: "https://play.google.com/store/apps/details?id=com.easyInsurance.easyapp&pcampaignid=web_share",
           icon: <Icons.globe className="size-3" />,
         },
-      ],
+        {
+          type: "Apple Store",
+          href: "https://apps.apple.com/us/app/2easy-app/id6751677391?platform=iphone",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],      
       image: "/2easyApp.png",
       video: "",
     },
