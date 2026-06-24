@@ -90,6 +90,13 @@ export const DATA = {
 
   work: [
     {
+      key: "hidrovias",
+      company: "Hidrovias do Brasil",
+      href: "https://www.hbsa.com.br/",
+      badges: [],
+      logoUrl: "",
+    },
+    {
       key: "2easyInsurance",
       company: "2Easy Insurance",
       href: "https://www.2easyinsurance.com/",
