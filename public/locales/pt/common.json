@@ -13,11 +13,17 @@
   "descriptionProjects": "Trabalhei em uma variedade de projetos, desde sites simples até aplicativos web complexos e apps. Aqui estão alguns dos meus favoritos.",
 
   "works": {
+    "hidrovias": {
+      "title": "Engenheiro de Software - Front-end",
+      "period": "Dez 2025 - Presente",
+      "location": "Presencial",
+      "description": "Atuo no desenvolvimento e evolução de aplicações internas críticas para o negócio, com foco em performance, escalabilidade e experiência do usuário. Utilizo React e TypeScript na construção de interfaces modernas e componentizadas, seguindo padrões de arquitetura que garantem manutenção e crescimento sustentável das aplicações. Participo ativamente de code reviews e da definição de boas práticas de desenvolvimento, contribuindo para a qualidade e consistência técnica do time. Também atuo na otimização de performance e usabilidade, identificando gargalos e implementando melhorias que aumentam a eficiência operacional. Trabalho próximo às áreas de negócio para transformar requisitos em soluções técnicas, além de contribuir com testes, documentação e padronização de componentes, fortalecendo a confiabilidade e a evolução contínua dos produtos."
+    },
     "2easyInsurance": {
       "title": "Engenheiro de Software - Front-end",
-      "period": "Jul 2024 - Presente",
+      "period": "Jul 2024 - Dez 2025",
       "location": "Remoto",
-      "description": "Atuo como responsável pela arquitetura e desenvolvimento front-end da empresa, liderando a criação de aplicativos móveis com React Native, interfaces de CRM em Vue.js e projetos em React.js. Desenvolvi o app principal da empresa do zero, priorizando performance e escalabilidade. Utilizo Redux, Zustand e Pinia para gerenciamento de estado, além de criar componentes reutilizáveis e interfaces consistentes com Figma e TailwindCSS. Sigo boas práticas de engenharia para garantir código limpo, modular e de fácil manutenção."
+      "description": "Atuei como responsável pela arquitetura e desenvolvimento front-end da empresa, liderando a criação de aplicativos móveis com React Native, interfaces de CRM em Vue.js e projetos em React.js. Desenvolvi o app principal da empresa do zero, priorizando performance e escalabilidade. Utilizo Redux, Zustand e Pinia para gerenciamento de estado, além de criar componentes reutilizáveis e interfaces consistentes com Figma e TailwindCSS. Sigo boas práticas de engenharia para garantir código limpo, modular e de fácil manutenção."
     },
     "riotGames": {
       "title": "Engenheiro de Software - Full Stack",
