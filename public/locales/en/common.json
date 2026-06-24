@@ -13,9 +13,15 @@
   "descriptionProjects": "I've worked on a variety of projects, from simple websites to complex web applications and apps. Here are a few of my favorites.",
 
   "works": {
+    "hidrovias": {
+      "title": "Software Engineer - Front-end",
+      "period": "Dec 2025 - Present",
+      "location": "On-site",
+      "description": "I work on the development and continuous improvement of business-critical internal applications, focusing on performance, scalability, and user experience. Using React and TypeScript, I build modern, maintainable, and scalable interfaces by applying component-driven architecture and engineering best practices. I actively participate in code reviews and contribute to establishing development standards that ensure code quality and consistency across the team. I also drive performance and usability improvements by identifying bottlenecks and implementing solutions that enhance operational efficiency. Working closely with stakeholders and business teams, I translate business requirements into technical solutions while contributing to testing strategies, technical documentation, and component standardization to improve application reliability and long-term maintainability."
+    },
     "2easyInsurance": {
       "title": "Software Engineer - Front-end",
-      "period": "Jul 2024 - Present",
+      "period": "Jul 2024 - Dec 2025",
       "location": "Remote",
       "description": "I’m responsible for front-end architecture and development at the company, leading the creation of mobile apps with React Native, CRM interfaces in Vue.js, and projects in React.js. I developed the company’s main app from scratch, focusing on performance and scalability. I use Redux, Zustand, and Pinia for state management, and build reusable components and consistent interfaces with Figma and TailwindCSS. I follow software engineering best practices to ensure clean, modular, and maintainable code."
     },
