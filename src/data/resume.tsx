@@ -94,7 +94,7 @@ export const DATA = {
       company: "Hidrovias do Brasil",
       href: "https://www.hbsa.com.br/",
       badges: [],
-      logoUrl: "",
+      logoUrl: "/hidrovias.png",
     },
     {
       key: "2easyInsurance",
